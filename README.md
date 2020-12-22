@@ -1,13 +1,14 @@
 # mind-demo
 
-运行的demo方式： python3 demo.py
+How to run： python3 demo.py
 
-一共5个测试用例，分别测试三类API：
-1 内置api
-2 标准库api
+there are 5 test cases, which test 3 kinds of APIs：
+1 built-in api
+2 std api
 3 mindspore api
 4 mindspore api
-5 项目自定义api
+5 self-definded api
 
-注意， get_dataflow.py中原来使用的srilm-1.7.2/lm/bin/i686-m64/ngram 为了方便替换成了ngram，将srilm-1.7.2/lm/bin/i686-m64/ 加入了全局变量:
+note， get_dataflow.py#line 1192 
+replace srilm-1.7.2/lm/bin/i686-m64/ngram to ngram, and set path with:
 export PATH=$PATH:{path}/srilm-1.7.2/bin/i686-m64
