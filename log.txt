@@ -1,0 +1,10 @@
+ninja: Entering directory `/home/xincheng/demo/.pytype'
+ninja: build stopped: interrupted by user.
+/.pytype/pyi/tmp.pyi 
+/usr/bin/python3 -m pytype.single --imports_info /home/xincheng/demo/.pytype/imports/tmp.imports --module-name tmp -V 3.8 -o /home/xincheng/demo/.pytype/pyi/tmp.pyi --analyze-annotated --nofail --quick /home/xincheng/demo/testcases/tmp.py
+File "/home/xincheng/demo/testcases/tmp.py", line 7, in get_param_groups: List[nothing] [reveal-type]
+
+For more details, see https://google.github.io/pytype/errors.html#reveal-type.
+ninja: build stopped: subcommand failed.
+Computing dependencies
+Analyzing 1 sources with 0 local dependencies

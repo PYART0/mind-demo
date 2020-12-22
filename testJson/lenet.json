@@ -1,0 +1,5 @@
+src.lenet.LeNet5.__init__
+src.lenet.LeNet5.construct
+src.dataset.create_dataset
+mindspore_hub_conf.create_network
+mindspore_hub_conf.lenet

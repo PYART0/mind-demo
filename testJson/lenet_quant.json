@@ -1,0 +1,10 @@
+lenet_quant.LeNet5.__init__
+loss_monitor.LossMonitor.__init__
+lenet_fusion.LeNet5.__init__
+lenet_quant.LeNet5.construct
+lenet_fusion.LeNet5.construct
+dataset.create_dataset
+loss_monitor.LossMonitor.epoch_begin
+loss_monitor.LossMonitor.epoch_end
+loss_monitor.LossMonitor.step_begin
+loss_monitor.LossMonitor.step_end

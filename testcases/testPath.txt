@@ -1,0 +1,5 @@
+test1 testdata/model_zoo/official/cv/alexnet/src/get_param_groups.py
+test2 testdata/model_zoo/official/cv/alexnet/train.py
+test3 testdata/model_zoo/official/cv/alexnet/src/alexnet.py
+test4 testdata/model_zoo/official/cv/alexnet/export.py
+test5 testdata/model_zoo/official/cv/alexnet/eval.py
